@@ -6,7 +6,7 @@ Files from my [AutoEq](https://github.com/jaakkopasanen/AutoEq) workspace.
     [Guide](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
 - my_results
   - EQ settings generated using [AutoEq](https://github.com/jaakkopasanen/AutoEq).
-  - Additional 7-band EQ settings generated using [eqApproximator](https://github.com/Blah029/python/blob/main/misc/eqApproximator.py).
+  - Additional n-band EQ settings generated using [eqApproximator](https://github.com/Blah029/python/blob/main/misc/eqApproximator.py).
 - run.bat
   - Batch file for generating EQ settings using [AutoEq](https://github.com/jaakkopasanen/AutoEq). </br>
     Replace \<model\> with the speaker for which the data will be generated. </br>
