@@ -2,7 +2,7 @@
 Files from my [AutoEq](https://github.com/jaakkopasanen/AutoEq) workspace.
 
 - my_data
-  - Data generated exctracted from frequency response graphs using [WebPlotDigitizer](https://apps.automeris.io/wpd/). </br>
+  - Data exctracted from frequency response graphs using [WebPlotDigitizer](https://apps.automeris.io/wpd/). </br>
     [Guide](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
 - my_results
   - EQ settings generated using [AutoEq](https://github.com/jaakkopasanen/AutoEq).
