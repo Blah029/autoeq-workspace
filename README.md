@@ -9,5 +9,5 @@ Files from my [AutoEq](https://github.com/jaakkopasanen/AutoEq) workspace.
   - Additional n-band EQ settings generated using [eqApproximator](https://github.com/Blah029/python/blob/main/misc/eqApproximator.py).
 - run.bat
   - Batch file for generating EQ settings using [AutoEq](https://github.com/jaakkopasanen/AutoEq). </br>
-    Replace \<model\> with the speaker for which the data will be generated. </br>
+    Replace \<model\> with the headphone model for which the data will be generated (for labelling purposes). </br>
     Replace \<compensation method\> with preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) available in AutoEQ repository without the .csv extension.
