@@ -10,4 +10,4 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
 - run.bat
   - Batch file for generating EQ settings using [AutoEq](https://github.com/jaakkopasanen/AutoEq). </br>
     Replace \<model\> with headphone model (for labelling purposes). </br>
-    Replace \<compensation method\> with the preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) from AutoEQ repository without the .csv extension.
+    Replace \<compensation method\> with the preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) from AutoEQ without the .csv extension.
