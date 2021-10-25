@@ -1,0 +1,8 @@
+   Band     Gain
+0    60 Hz  -5.8 dB
+1   150 Hz  -4.7 dB
+2   400 Hz  -3.5 dB
+3  1000 Hz   3.0 dB
+4  3000 Hz  -0.1 dB
+5  8000 Hz   6.1 dB
+6 16000 Hz   4.8 dB
