@@ -1,5 +1,5 @@
 # autoEqWorkspace
-Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq) by jaakkopasanen.
+Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq) by [jaakkopasanen](https://github.com/jaakkopasanen).
 
 - my_data
   - Data exctracted from frequency response graphs using [WebPlotDigitizer](https://apps.automeris.io/wpd/). </br>
