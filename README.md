@@ -10,7 +10,7 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
   - Batch file for generating EQ settings using AutoEq. </br>
     Replace \<model\> with headphone model (for labelling purposes). </br>
     Replace \<compensation method\> with the preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) from AutoEQ without the .csv extension.</br>
-    Replace \<samplerate\> with the sample rate of the audio device (for convolution EQ).
+    Replace \<sample rate\> with the sample rate of the audio device (for convolution EQ).
 - Fine tuning
   - ASUS TUF FX504 built-in speaker
     - DIY EQ & S10 mic correction (2-16 kHz)
