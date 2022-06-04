@@ -1,5 +1,5 @@
-set "MODEL="
-set "COMPENSATION="
+set "MODEL=_convolution"
+set "COMPENSATION=_convolution"
 set "BASSBOOST=0"
 set "SAMPLERATE=48000"
 
