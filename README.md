@@ -17,6 +17,6 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
   - ZK ZSN Pro X
     - Hybrid EQ & S10 mic correction (2-16 kHz)
   - Samsung Galaxy S10
-    - DIY & S10 mic correction (2-4 kHz)
+    - DIY EQ & S10 mic correction (2-4 kHz)
     - 8 kHz +1 dB
     - 16 kHz +0 dB
