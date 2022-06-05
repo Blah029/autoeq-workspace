@@ -34,5 +34,5 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
       - 1 kHz -4.2 dB
       - 2 kHz -1.2 dB
       - 4 kHz -12.1 dB
-      - 8 kHz 1 dB
+      - 8 kHz -3 dB
       - 16 kHz 0 dB
