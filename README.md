@@ -6,7 +6,7 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
     [Guide](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
 - my_results
   - EQ settings generated using AutoEq.
-- run.bat
+- autoeq_run.bat
   - Batch file for generating EQ settings using AutoEq. </br>
     Replace \<model\> with headphone model (for labelling purposes). </br>
     Replace \<compensation method\> with the preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) from AutoEQ without the .csv extension.</br>
