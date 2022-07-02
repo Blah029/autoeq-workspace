@@ -11,15 +11,3 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
     Replace \<model\> with headphone model (for labelling purposes). </br>
     Replace \<target curve\> with the preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) from AutoEQ without the .csv extension.</br>
     Replace \<sample rate\> with the sample rate of the audio device (for convolution EQ).
-- Fine tuning
-  - Samsung Galaxy S10
-    - Estimate EQ & S10 mic correction (2-4 kHz) & manual correction (8-16 kHz)
-      - 63 Hz 7.8 dB
-      - 125 Hz 3.3 dB
-      - 250 Hz 5.7 dB
-      - 500 Hz -3.7 dB
-      - 1 kHz -4.2 dB
-      - 2 kHz -1.2 dB
-      - 4 kHz -9 dB
-      - 8 kHz -7 dB
-      - 16 kHz -6 dB
