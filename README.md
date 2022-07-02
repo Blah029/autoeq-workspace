@@ -13,7 +13,7 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
     Replace \<sample rate\> with the sample rate of the audio device (for convolution EQ).
 - Fine tuning
   - Samsung Galaxy S10
-    - DIY EQ & S10 mic correction (2-4 kHz) & manual correction (8-16 kHz)
+    - Estimate EQ & S10 mic correction (2-4 kHz) & manual correction (8-16 kHz)
       - 63 Hz 7.8 dB
       - 125 Hz 3.3 dB
       - 250 Hz 5.7 dB
