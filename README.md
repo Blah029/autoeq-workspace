@@ -7,7 +7,7 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
 - my_results
   - EQ settings generated using AutoEq.
 - run_autoeq.bat
-  - Batch file for generating EQ settings using AutoEq
+  - Batch file for generating EQ settings using AutoEq.
     - MODEL - headphone model (for labelling purposes).
     - COMPENSATION - preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) from AutoEQ without the .csv extension.
     - BASSBOOST - low shelf boost with centre frequency at 100 Hz.
