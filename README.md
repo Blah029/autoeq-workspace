@@ -6,8 +6,9 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
     [Guide](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
 - my_results
   - EQ settings generated using AutoEq.
-- autoeq_run.bat
+- run_autoeq.bat
   - Batch file for generating EQ settings using AutoEq. </br>
-    Replace \<model\> with headphone model (for labelling purposes). </br>
-    Replace \<target curve\> with the preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) from AutoEQ without the .csv extension.</br>
-    Replace \<sample rate\> with the sample rate of the audio device (for convolution EQ).
+    MODEL - headphone model (for labelling purposes). </br>
+    COMPENSATION - preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) from AutoEQ without the .csv extension.</br>
+    BASSBOOST - low shelf boost with centre frequency at 100 Hz
+    SAMPLERATE - sample rate of the audio device (for convolution EQ).
