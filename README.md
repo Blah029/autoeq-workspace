@@ -10,5 +10,5 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
   - Batch file for generating EQ settings using AutoEq. </br>
     MODEL - headphone model (for labelling purposes). </br>
     COMPENSATION - preferred [compesation method](https://github.com/jaakkopasanen/AutoEq/tree/master/compensation) from AutoEQ without the .csv extension.</br>
-    BASSBOOST - low shelf boost with centre frequency at 100 Hz
-    SAMPLERATE - sample rate of the audio device (for convolution EQ).
+    BASSBOOST - low shelf boost with centre frequency at 100 Hz. </br>
+    SAMPLERATE - sample rate of the audio device (for convolution EQ). </br>
