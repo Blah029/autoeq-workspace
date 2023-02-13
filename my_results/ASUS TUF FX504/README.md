@@ -2,21 +2,20 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.4dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-7.2 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | 6.3 dB   |
-| Peaking | 62 Hz    | 1.41 | 4.2 dB   |
-| Peaking | 125 Hz   | 1.41 | 4.7 dB   |
-| Peaking | 250 Hz   | 1.41 | 5.3 dB   |
-| Peaking | 500 Hz   | 1.41 | 1.5 dB   |
-| Peaking | 1000 Hz  | 1.41 | -6.8 dB  |
-| Peaking | 2000 Hz  | 1.41 | -2.1 dB  |
-| Peaking | 4000 Hz  | 1.41 | -12.9 dB |
-| Peaking | 8000 Hz  | 1.41 | -1.8 dB  |
-| Peaking | 16000 Hz | 1.41 | 3.6 dB   |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         6   |
+|   2 | Peaking |        62 | 1.41 |         4.6 |
+|   3 | Peaking |       125 | 1.41 |         4.6 |
+|   4 | Peaking |       250 | 1.41 |         5.2 |
+|   5 | Peaking |       500 | 1.41 |         1.8 |
+|   6 | Peaking |      1000 | 1.41 |        -7.4 |
+|   7 | Peaking |      2000 | 1.41 |        -1.6 |
+|   8 | Peaking |      4000 | 1.41 |       -13   |
+|   9 | Peaking |      8000 | 1.41 |        -2.6 |
+|  10 | Peaking |     16000 | 1.41 |         5   |
 
 ### Graphs
 ![](./ASUS%20TUF%20FX504.png)
