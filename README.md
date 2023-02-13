@@ -1,4 +1,4 @@
-# autoEqWorkspace
+# autoeq-workspace
 Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
 
 - Removed directories
