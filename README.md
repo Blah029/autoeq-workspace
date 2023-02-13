@@ -4,6 +4,7 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
 - Removed directories
   - measuremets
   - research
+  - results
 - Added directories
   - my_results
     - Custom EQ targets.
