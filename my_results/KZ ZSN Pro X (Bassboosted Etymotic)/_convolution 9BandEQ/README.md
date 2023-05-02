@@ -2,20 +2,19 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.1dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-3.3 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 63 Hz    | 1.41 | -3.1 dB |
-| Peaking | 125 Hz   | 1.41 | -3.8 dB |
-| Peaking | 250 Hz   | 1.41 | -3.5 dB |
-| Peaking | 500 Hz   | 1.41 | 3.8 dB  |
-| Peaking | 1000 Hz  | 1.41 | -0.6 dB |
-| Peaking | 2000 Hz  | 1.41 | 0.4 dB  |
-| Peaking | 4000 Hz  | 1.41 | 1.9 dB  |
-| Peaking | 8000 Hz  | 1.41 | 0.4 dB  |
-| Peaking | 16000 Hz | 1.41 | -0.6 dB |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        63 | 1.41 |        -3.3 |
+|   2 | Peaking |       125 | 1.41 |        -3.8 |
+|   3 | Peaking |       250 | 1.41 |        -3.5 |
+|   4 | Peaking |       500 | 1.41 |         4.1 |
+|   5 | Peaking |      1000 | 1.41 |        -0.8 |
+|   6 | Peaking |      2000 | 1.41 |         0.7 |
+|   7 | Peaking |      4000 | 1.41 |         1.8 |
+|   8 | Peaking |      8000 | 1.41 |         0.4 |
+|   9 | Peaking |     16000 | 1.41 |        -0.8 |
 
 ### Graphs
 ![](./_convolution.png)
