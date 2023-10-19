@@ -14,4 +14,6 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
     [(Guide)](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
   - my_results
     - EQ settings generated using AutoEq.
-
+- Added files
+  - f#beq
+    - Configuration files for fixed-band equalisation with 7, 9, and 10 bands
