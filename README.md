@@ -13,7 +13,7 @@ Files from my workspace for [AutoEq](https://github.com/jaakkopasanen/AutoEq).
     - Data exctracted from frequency response graphs using [WebPlotDigitizer](https://apps.automeris.io/wpd/). </br>
     [(Guide)](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
   - my_preference
-    - Preference adjustments to be used with --sound-signature argument
+    - Preference adjustments to be used with `--sound-signature` argument
   - my_results
     - Calculated EQs.
   - my_results
