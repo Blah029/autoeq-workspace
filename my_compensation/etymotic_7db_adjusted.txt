@@ -1,4 +1,0 @@
-set "COMPENSATION=etymotic"
-set "PREFERENCE=zero"
-set "BASSBOOST=7"
-set "TREBLEBOOST=-1.75,2500,0.7"
