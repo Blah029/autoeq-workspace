@@ -1,5 +1,5 @@
 set "COMPENSATION=jm1_08dboct_5db"
 set "PREFERENCE=zero"
 set "BASSBOOST=0"
-set "TREBLEBOOST=-2.5,10000,0.7"
+set "TREBLEBOOST=-2.5,8000,0.7"
 set "TILT=0"
