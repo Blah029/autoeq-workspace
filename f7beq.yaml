@@ -1,0 +1,18 @@
+filter_defaults:
+  type: PEAKING
+
+filters:
+  - fc: 60
+    q: 1.12
+  - fc: 150
+    q: 1.04
+  - fc: 400
+    q: 1.12
+  - fc: 1000
+    q: 0.92
+  - fc: 3000
+    q: 1.04
+  - fc: 8000
+    q: 1.41
+  - fc: 16000
+    q: 1.41

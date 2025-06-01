@@ -1,0 +1,4 @@
+set "COMPENSATION=etymotic"
+set "BASSBOOST=7"
+set "TREBLEBOOST=0"
+set "TILT=0"
