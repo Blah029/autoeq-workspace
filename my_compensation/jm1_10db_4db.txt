@@ -1,0 +1,4 @@
+set "COMPENSATION=jm1"
+set "BASSBOOST=10,80,0.71"
+set "TREBLEBOOST=-4,2500,0.4"
+set "TILT=0"

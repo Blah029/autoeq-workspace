@@ -1,5 +1,4 @@
 set "COMPENSATION=harman_over-ear_2018_wo_bass"
-set "PREFERENCE=zero"
 set "BASSBOOST=-2,60,0.7"
 set "TREBLEBOOST=2,600,0.7"
 set "TILT=0"
