@@ -1,4 +1,0 @@
-set "COMPENSATION=jm1"
-set "BASSBOOST=5"
-set "TREBLEBOOST=0"
-set "TILT=-0.8"
