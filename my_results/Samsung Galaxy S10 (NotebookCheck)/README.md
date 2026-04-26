@@ -1,6 +1,22 @@
 # Samsung Galaxy S10
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
+### Parametric EQs
+Apply preamp of -7.9 dB when using parametric equalizer.
+
+|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|-----------|-----------|------|-------------|
+|   1 | LowShelf  |       105 | 0.7  |         5.7 |
+|   2 | Peaking   |       140 | 1.33 |         1.3 |
+|   3 | Peaking   |       433 | 0.49 |        10.7 |
+|   4 | Peaking   |       484 | 1.6  |        -9.8 |
+|   5 | Peaking   |       830 | 2.57 |        -2.1 |
+|   6 | Peaking   |      1162 | 1.07 |        -6.4 |
+|   7 | Peaking   |      3296 | 1.85 |         4.4 |
+|   8 | Peaking   |      3663 | 0.63 |       -17   |
+|   9 | Peaking   |      4827 | 3.76 |         1.2 |
+|  10 | HighShelf |     10000 | 0.7  |         8   |
+
 ### Fixed Band EQs
 When using fixed band (also called graphic) equalizer, apply preamp of **-12.8 dB** (if available) and set gains manually with these parameters.
 
